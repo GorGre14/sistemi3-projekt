@@ -1,0 +1,17 @@
+commit 49de30723b1c9c85148555d125838a4e299de675
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 22:50:28 2022 +0200
+
+    dodan drugi file
+
+commit a9243b42929c418d0e56e00f2b7b877f3a40eb7a
+Author: GorGre14 <gorgre14@gmail.com>
+Date:   Wed Oct 26 22:46:31 2022 +0200
+
+    Dodan readme file
+
+commit 9a984351088d20898001608af87b984dc338fec1
+Author: GorGre14 <93708520+GorGre14@users.noreply.github.com>
+Date:   Wed Oct 26 22:37:16 2022 +0200
+
+    Initial commit
